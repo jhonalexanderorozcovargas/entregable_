@@ -33,7 +33,8 @@
     <title>clone youtube</title>
   </head>
   <body >
-  
+  <iframe  width="1000" height="500"  src="https://www.youtube.com/embed/It6BDtMFg0Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
    
   
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
