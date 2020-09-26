@@ -19,8 +19,8 @@
       </li>
     </ul>
     <form class="form-inline my-2 my-lg-0">
-      <input class="form-control mr-sm-2" type="search" placeholder="buscar" aria-label="Search">
-      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">buscar</button>
+      <input class="form-control mr-sm-2" type="ingrese correo" placeholder="" aria-label="ingrese correo">
+      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">registrarse</button>
     </form>
   </div>
 </nav>
@@ -33,71 +33,15 @@
     <title>clone youtube</title>
   </head>
   <body >
+  <iframe  width="1000" height="500"  src="https://www.youtube.com/embed/It6BDtMFg0Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
-  <iframe  width="1000" height="500"  src="https://www.youtube.com/embed/It6BDtMFg0Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> <div class="card border-primary mb-3" style="max-width: 18rem;">
-  <div class="card-header">Header</div>
-  <div class="card-body text-primary">
-    <h5 class="card-title">Primary card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-  </div>
-</div>
-<div class="card border-secondary mb-3" style="max-width: 18rem;">
-  <div class="card-header">Header</div>
-  <div class="card-body text-secondary">
-    <h5 class="card-title">Secondary card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-  </div>
-</div>
-<div class="card border-success mb-3" style="max-width: 18rem;">
-  <div class="card-header">Header</div>
-  <div class="card-body text-success">
-    <h5 class="card-title">Success card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-  </div>
-</div>
-<div class="card border-danger mb-3" style="max-width: 18rem;">
-  <div class="card-header">Header</div>
-  <div class="card-body text-danger">
-    <h5 class="card-title">Danger card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-  </div>
-</div>
-<div class="card border-warning mb-3" style="max-width: 18rem;">
-  <div class="card-header">Header</div>
-  <div class="card-body text-warning">
-    <h5 class="card-title">Warning card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-  </div>
-</div>
-<div class="card border-info mb-3" style="max-width: 18rem;">
-  <div class="card-header">Header</div>
-  <div class="card-body text-info">
-    <h5 class="card-title">Info card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-  </div>
-</div>
-<div class="card border-light mb-3" style="max-width: 18rem;">
-  <div class="card-header">Header</div>
-  <div class="card-body">
-    <h5 class="card-title">Light card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-  </div>
-</div>
-<div class="card border-dark mb-3" style="max-width: 18rem;">
-  <div class="card-header">Header</div>
-  <div class="card-body text-dark">
-    <h5 class="card-title">Dark card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-  </div>
-</div></iframe>
-  
-  <nav class="navbar navbar-light bg-light">
-  <a  class="navbar-brand">comentarios </a>
-    <form    class="form-inline">
-    <input  class="form-control mr-sm-2">
-    <button class="btn btn-outline-success my-2 my-sm-0" type="submit"> suscribrirse</button>
+    <nav class="navbar navbar-light bg-light">
+  <a class="navbar-brand">sugerencias</a>
+  <form class="form-inline">
+    <input class="form-control mr-sm-2" type="buscar" placeholder="buscar" aria-label="buscar">
+    <button class="btn btn-outline-success my-2 my-sm-0" type="submit">buscar</button>
   </form>
-  </nav>
+</nav>
    
   
 
@@ -107,13 +51,39 @@
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
   </body>
-
-
-
-
-
   <footer>
-
+  <div class="card-group">
+  <div class="card">
+    <img src="imagenes/img3.png" class="card-img-top" alt="..."height="300">
+    <div class="card-body">
+      <h5 class="card-title">lista de reproduccion</h5>
+      <p class="card-text">sugerencias</p>
+    </div>
+    <div class="card-footer">
+      <small class="text-muted">Last updated 3 mins ago</small>
+    </div>
+  </div>
+  <div class="card">
+    <img src="imagenes/img2.png" class="card-img-top" alt="..." height="300">
+    <div class="card-body">
+      <h5 class="card-title">lista de reproduccion</h5>
+      <p class="card-text">sugerencias</p>
+    </div>
+    <div class="card-footer">
+      <small class="text-muted">Last updated 3 mins ago</small>
+    </div>
+  </div>
+  <div class="card">
+    <img src="imagenes/img.png.png" class="card-img-top" alt=""  height="300">
+    <div class="card-body">
+      <h5 class="card-title">lista de reproduccion</h5>
+      <p class="card-text">sugerencias</p>
+    </div>
+    <div class="card-footer">
+      <small class="text-muted">Last updated 3 mins ago</small>
+    </div>
+  </div>
+</div>
 
   
   </footer>
